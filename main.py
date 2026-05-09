@@ -85,3 +85,19 @@ plt.show()
 # Completion Message
 # ---------------------------------------
 print("\n✔ All graphs generated and saved successfully in 'images' folder")
+
+#OUTPUT---------------------------------------------------
+
+  
+#               ===== STUDENT DATA =====
+
+#      Name  Math  Science  English    Gender    Average
+
+# 0    Aman    78       82       75      M     78.333333
+# 1    Riya    85       79       88      F     84.000000
+# 2   Rahul    62       65       70      M     65.666667
+# 3  Simran    90       88       92      F     90.000000
+# 4   Vikas    70       72       68      M     70.000000
+# 5    Neha    88       91       85      F     88.000000
+# 6   Arjun    95       89       90      M     91.333333
+# 7   Pooja    60       58       65      F     61.000000
